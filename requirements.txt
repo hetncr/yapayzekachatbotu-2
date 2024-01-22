@@ -10,5 +10,6 @@ google-generativeai
 pypdf
 chromadb 
 langchain-google-genai 
+langchain-community
 python-dotenv
 faiss-cpu
