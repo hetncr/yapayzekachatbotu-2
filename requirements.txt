@@ -1,0 +1,14 @@
+langchain
+PyPDF2
+streamlit
+streamlit-extras
+altair<5
+openai
+chromadb
+pysqlite3-binary
+google-generativeai
+pypdf
+chromadb 
+langchain-google-genai 
+python-dotenv
+faiss-cpu
